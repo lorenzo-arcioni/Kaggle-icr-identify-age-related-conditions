@@ -27,7 +27,7 @@ In this competition, participants work with data related to health characteristi
 ### Achievements
 I am delighted to announce that my efforts in this competition resulted in a Silver Medal, placing me in the top 2% of the competition's leaderboard. This achievement reflects not only my dedication to data science but also my commitment to contributing to advancements in the field of bioinformatics.
 
-I've selected XGBoost model for predicting medical conditions. In my case, after extensive hyperparameter tuning, I was able to achieve an accuracy of 98% and a log loss of 50% with a recall of 100% using the XGBoost model. This level of performance is crucial, especially in cases where lives are at stake, as it ensures the reliability and consistency of predictions across different cases.
+I've selected XGBoost model for predicting medical conditions. In my case, after extensive hyperparameter tuning, I was able to achieve an accuracy of 98% and a log loss of 58% with a recall of 100% using the XGBoost model. This level of performance is crucial, especially in cases where lives are at stake, as it ensures the reliability and consistency of predictions across different cases.
 
 Feel free to explore the code and documentation in this repository to gain insights into my approach to tackling this challenging problem. Your feedback and collaboration are highly appreciated as we continue to explore new methods for solving complex problems with diverse data in the ever-evolving field of data science and healthcare.
 
