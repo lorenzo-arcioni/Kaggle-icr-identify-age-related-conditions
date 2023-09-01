@@ -22,9 +22,7 @@ In this competition, participants work with data related to health characteristi
 ### Repository Contents
 - **Data**: This folder contains the dataset used in the competition. Due to privacy concerns, the data is anonymous.
 - **Notebooks**: This directory contains Jupyter notebooks that detail the data analysis, feature engineering, model building, and evaluation steps.
-- **Scripts**: Here, you will find any custom scripts or code snippets used during the competition.
 - **Results**: This folder holds the final model(s) and predictions submitted to Kaggle.
-- **Documentation**: You can find comprehensive documentation on the competition, data preprocessing, and the machine learning model in this directory.
 
 ### Achievements
 I am delighted to announce that my efforts in this competition resulted in a Silver Medal, placing me in the top 2% of the competition's leaderboard. This achievement reflects not only my dedication to data science but also my commitment to contributing to advancements in the field of bioinformatics.
