@@ -33,6 +33,8 @@ Feel free to explore the code and documentation in this repository to gain insig
 
 Thank you for your interest in my work!
 
+Aaron Carman, Alexander Heifler, Ashley Chow, CGlenICR, Ryan Holbrook. (2023). ICR - Identifying Age-Related Conditions. Kaggle. https://kaggle.com/competitions/icr-identify-age-related-conditions
+
 *Author: Lorenzo Arcioni*
 
 *Date: 11-07-2023*
