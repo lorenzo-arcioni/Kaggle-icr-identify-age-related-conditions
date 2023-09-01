@@ -15,7 +15,7 @@ By participating in this competition, I contributed to the advancement of medica
 ### Context
 Aging is a natural process, but it brings along a multitude of age-related health issues. These include heart disease, dementia, hearing loss, arthritis, and more. The field of bioinformatics is growing, encompassing research into interventions that can slow down and even reverse biological aging, thereby preventing major age-related ailments. Data science plays a pivotal role in developing innovative methods to address problems that involve diverse datasets, even when the dataset size is limited.
 
-The existing models, such as XGBoost and random forest, have been used for predicting medical conditions. However, their performance has not been satisfactory, especially in cases where lives are at stake. Reliability and consistency in predictions across different cases are paramount.
+The existing models, such as XGBoost, have been used for predicting medical conditions. In my case, after extensive hyperparameter tuning, I was able to achieve an accuracy of 98% and a log loss of 50% using the XGBoost model. This level of performance is crucial, especially in cases where lives are at stake, as it ensures the reliability and consistency of predictions across different cases.
 
 The competition is hosted by InVitro Cell Research, LLC (ICR), a private company committed to regenerative and preventive personalized medicine. They have state-of-the-art research facilities in the greater New York City area and a team of dedicated scientists who drive their mission to research ways to expedite the rejuvenation of aging individuals.
 
@@ -35,6 +35,5 @@ Feel free to explore the code and documentation in this repository to gain insig
 
 Thank you for your interest in my work!
 
-*Author: [Your Name]*
-*Date: [Current Date]*
-
+*Author: Lorenzo Arcioni*
+*Date: 11-07-2023*
