@@ -21,6 +21,7 @@ In this competition, participants work with data related to health characteristi
 
 ### Repository Contents
 - **Data**: This folder contains the dataset used in the competition. Due to privacy concerns, the data is anonymous.
+- **Models**: Here you can find XGBoost trained saved models.
 - **Notebooks**: This directory contains Jupyter notebooks that detail the data analysis, feature engineering, model building, and evaluation steps.
 - **Results**: This folder holds the final model(s) and predictions submitted to Kaggle.
 
